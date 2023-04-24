@@ -1,0 +1,1 @@
+Built with a combination of guides, uses packages "concurrently" and "wait-on" to launch electron app after react process is loaded.
